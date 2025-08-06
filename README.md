@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dorothy Gogoi</h1>
+<h2 align="center">Hi 👋, I'm Dorothy Gogoi</h2>
 <h5 align="center">
   A dedicated software developer focused on building scalable web applications.
   <br>Feel free to explore my repositories for a closer look at my work and technical capabilities.
@@ -36,10 +36,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorothy003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Dorothy003&icon=0&color=0" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Dorothy003&icon=0&color=0" alt="Visitor Count"/>
+  <a href="https://github.com/Dorothy003" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Dorothy003&style=flat&color=blue" alt="Visitor Count"/>
   </a>
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
