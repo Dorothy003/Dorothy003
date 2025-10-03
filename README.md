@@ -4,7 +4,7 @@
   <br>Feel free to explore my repositories for a closer look at my work and technical capabilities.
 </h5>
 
-- 📫 **How to reach me**: gogoidorothy198@gmail.com
+- 📫 **How to reach me**: gogoidorothy01@gmail.com
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
